@@ -3,18 +3,24 @@
   width: 35rem;
   height: 18.75rem;
   border: solid black 1px;
+  margin-top: 80px;
 }
 .block {
   position: absolute;
   width: 100px;
   height: 20px;
-  border: solid #ff901f 1px;
   background-color: #ff2975;
 }
 .user {
   position: absolute;
   width: 100px;
   height: 20px;
-  border: solid #00b8ff 1px;
   background-color: #4700ff;
+}
+.ball {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #ffd319;
+  position: absolute;
 }
