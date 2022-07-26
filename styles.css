@@ -1,0 +1,20 @@
+.grid {
+  position: absolute;
+  width: 35rem;
+  height: 18.75rem;
+  border: solid black 1px;
+}
+.block {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  border: solid #ff901f 1px;
+  background-color: #ff2975;
+}
+.user {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  border: solid #00b8ff 1px;
+  background-color: #4700ff;
+}
